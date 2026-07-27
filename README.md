@@ -1,4 +1,4 @@
-# Valentin Kotov
+# Hi, I'm Valentin!
 
 I build agentic and data systems, the infrastructure that contains them, and the governance that lets them survive a security review rather than a demo. I come from nearly a decade of enterprise data and AI delivery (and years of various other work before that, such as full-stack web development in the early 2010s). Since 2017, my focus was mainly on the Databricks and Azure platforms, infrastructure as code, DataOps and MLOps - always embedded in client delivery teams, and in one case leading a consultancy's data practice.
 
@@ -8,7 +8,7 @@ German, based in Uruguay (GMT-3, full overlap with US business hours), working g
 
 ---
 
-## What's here
+## What's here so far
 
 **[EpOps reference card](https://github.com/kthneighbor/epops-failure-modes) - *How Knowledge Systems Rot***. Eight failure modes of AI-augmented knowledge work, each with a countermeasure. Versioned in the open, because a discipline about provenance and revision ought to keep its own history where it can be checked. Source plus rendered formats (PDF, PNG, HTML), CC BY 4.0.
 
