@@ -1,6 +1,6 @@
 # Hi, I'm Valentin
 
-I build data platforms and agent systems, the infrastructure that contains them, and the governance that keeps them defensible. Databricks, Azure, Terraform, enterprise delivery since 2017, embedded in client teams wearing various hats (data scientist, data engineer, data architect, platform engineer, data platform architect, tech lead), in one case leading a consultancy's data practice (as principal consultant for the business field "data").
+I build data platforms and agent systems, the infrastructure that contains them, and the governance that keeps them defensible. Databricks, Azure, Terraform, enterprise delivery since 2017, embedded in client teams wearing various hats (data scientist, data engineer, data architect, platform engineer, data platform architect, tech lead), in one case leading a consultancy's data practice (as principal consultant for the business field data/DataOps).
 
 One shape throughout: build the thing that isn't there yet, then hand it over.
 
