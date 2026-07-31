@@ -7,7 +7,7 @@ One shape throughout: build the thing that isn't there yet, then hand it over.
 **Here**
 - **[EpOps reference card](https://github.com/kthneighbor/epops-failure-modes)** — eight ways
   AI-augmented knowledge work rots, each with a countermeasure. CC BY 4.0.
-- **Agent skills** — definitions from my own toolchain, published as I get the time to ready them for wider consumption.
+- **[Corpus convention](https://github.com/kthneighbor/corpus-conventions)** — definitions from my own toolchain, published as I get the time to ready them for wider consumption.
 
 **Not here** — **Hoopoe**, a governed multi-agent harness running a full SDLC, in daily use on my own projects. **StudioOS**, a Terraform platform running agents under container isolation on Hetzner, defence in depth rather than perimeter. Both closed; I discuss the architectures openly. Client code sits in repositories I don't own.
 
